@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: autotestJava.test.WordpressTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 28.947 s - in autotestJava.test.WordpressTests
